@@ -1,0 +1,1 @@
+PIN= 1234 FirstName= ana LastName= tudor AccountNumber= 15711654 soldAmount= 0
